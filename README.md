@@ -9,6 +9,8 @@ Features
 * Map Integration: The app displays a country map image along with the weather information, enhancing the visual representation of the forecasted data.
 * Weather Icons: The app utilizes weather icons (e.g., clouds, sun, rain) to visually represent the current weather conditions, making it easier for users to understand the forecast at a glance.
 
+Demo : A live demo of the password generator can be found https://weather-app-ak.netlify.app/
+
 Technologies Used
 * HTML: Used to structure the web app and define the elements on the page.
 * CSS: Used for styling and layout purposes, ensuring an appealing and visually consistent design.
